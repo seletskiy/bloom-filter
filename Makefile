@@ -1,5 +1,5 @@
 all: bloomlib
-	gcc -O3 -lm bloom.c -o bloom bloomlib.o
+	gcc -O3 bloom.c -lm -o bloom bloomlib.o
 	rm bloomlib.o
 
 bloomlib:
