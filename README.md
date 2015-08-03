@@ -28,3 +28,9 @@ Usage
 =====
 
 Type `make` to compile and run `./bloom` to get help.
+
+
+License
+=======
+
+MIT
